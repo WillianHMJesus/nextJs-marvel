@@ -1,0 +1,11 @@
+.loader_container {
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  width: 100% !important;
+  height: 100% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0px;
+  top: 0px;
+}
